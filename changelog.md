@@ -1,6 +1,6 @@
 # Changelog
 
-- 例行更新广告规则
-- Routine update of ad rules
-- 添加 ipv6 dns 劫持功能 #53(wTNTw)
-- Added ipv6 dns hijacking feature #53(wTNTw)
+- 同步 AdGuard Home v0.107.72
+- Sync with AdGuard Home v0.107.72
+- 修复 debug.sh 中的错误 ([#54](https://github.com/twoone-3/AdGuardHomeForRoot/pull/54))
+- Fix the error in debug.sh ([#54](https://github.com/twoone-3/AdGuardHomeForRoot/pull/54))
